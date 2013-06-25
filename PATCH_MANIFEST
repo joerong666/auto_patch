@@ -1,0 +1,13 @@
+#revision:A/D/C:src_file[:dest_dir]
+r2061:A:sub_dir/dir1/a.java
+r2065:A:sub_dir/dir2/b.sh
+r2069:A:script/dir3/c.ini:sub_dir/script/dir3
+#r2111:D:sub_dir/test/kkk/tt.txt
+#r2112:A:sub_dir/test/kkk2
+#r2112:D:sub_dir/test/kkk
+#r2113:A:sub_dir/test/kkk2/tt2.txt
+r2124:A:sub_dir/conf/log4j.properties
+#r2197:A:sub_dir/conf
+#r2197:A:sub_dir/conf/config.conf
+xxxxx:A:sub_dir/db/patch.sql
+xxxxx:C:patch_script/demo_custom_script.sh:sub_dir/autoscript
