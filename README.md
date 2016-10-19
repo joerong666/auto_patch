@@ -11,6 +11,4 @@ svn client
 Contact:
 =========
 Please contact with me for any concern.
-zhengzn@ucweb.com
-or
-joerong666@126.com
+
